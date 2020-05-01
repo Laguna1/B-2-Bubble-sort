@@ -15,4 +15,4 @@ for i in 0...n-1
 end
 
 puts bubble_sort([4,3,78,2,0,2]).to_s
-puts bubble_sort([4,3,78,2,0,6,176,15,2]).to_s
+puts bubble_sort([4,3,78,2,0,37,6,176,15,2]).to_s
